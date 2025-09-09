@@ -10,6 +10,9 @@
 
 
 ### Backlog
++ Home
++ Tela de extrato
++ Tela de transferencia
 + Tela de compra de Drex
 + Tela de movimentações de Drex
 + Tela de conversao de real para Drex
